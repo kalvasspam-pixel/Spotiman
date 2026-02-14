@@ -4,4 +4,4 @@ We created Spotiman because we were suffering from music that feels like doomscr
 
 **How it works?**
 
-It uses TFT screen that displays Menu, player, playlists and settings also. It connects to your spotify account via Spotify API. You can import your playlist and listen with bluetooth headphones. You can control most of the features with rotary encoder. The heart of spotiman creates ESP-32 WROOM. Your data will be saved on SD card so you can play even if you are in the middle of Sahara. However only for now you need to use home server. But we are planning to add a rasberry pi so you dont need your home server.
+It uses TFT screen that displays Menu, player, playlists and settings also. It connects to your spotify account via Spotify API. You can import your playlist and listen with wired or bluetooth headphones. You can control Spotiman with rotary encoder. The heart of Spotiman creates ESP-32 WROOM. Your music will be saved on SD card so you can listen and manage it even if you are in the middle of Sahara. However only for now you need to use home server for downloading. But we are planning to also use an API for that.
