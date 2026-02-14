@@ -20,4 +20,4 @@ We used a couple of tools such as
 
 ## Images
 
-<img src="Images/Diagram_Principle_V2.png" width="200"> <img src="Images/Model_CAD_V1.png" width="200">
+<img src="Images/Diagram_Principle_V2.png" width="200"> <img src="Images/Model_CAD_V1.png" width="400">
