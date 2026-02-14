@@ -6,7 +6,7 @@ Spotiman is a device designed by two students that were sick of modern music ind
 
 **How does it work?**
 
-It uses TFT screen that displays Menu, player, playlists and settings also. It connects to your spotify account via Spotify API. You can import your playlist and listen with wired or bluetooth headphones. You can control Spotiman with rotary encoder. The heart of Spotiman creates ESP-32 WROOM. Your music will be saved on SD card so you can listen and manage it even if you are in the middle of Sahara. However only for now you need to use home server for downloading. But we are planning to also use an API for that.
+It uses TFT screen that displays all the UI. It connects to your spotify account via Spotify API. You can import your playlist and listen with wired or bluetooth headphones. You can control Spotiman with rotary encoder. The heart of Spotiman creates ESP-32 WROOM. Your music will be saved on SD card so you can listen and manage it even if you are in the middle of Sahara. However only for now you need to use home server for downloading. But we are planning to also use an API for that.
 
 **Wow, how did you design Spotiman?**
 
