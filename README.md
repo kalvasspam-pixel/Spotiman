@@ -10,6 +10,7 @@ It uses TFT screen that displays Menu, player, playlists and settings also. It c
 
 **Wow, how did you design Spotiman?**
 
-We used a couple of tools such as Onshape for CAD, Lopaka for UI design, our own brains, AI + lot of tutorials for firmware, and Wokwi for testing ideas.
+We used a couple of tools such as
+- Onshape for CAD, Lopaka for UI design, our own brains, AI + lot of tutorials for firmware, and Wokwi for testing ideas.
 
-## Spotiman is still in development. Fell free to contribute
+**Spotiman is still in development. Feel free to contribute**
