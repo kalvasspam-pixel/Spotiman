@@ -19,3 +19,5 @@ We used a couple of tools such as
 **Spotiman is still in development. Feel free to contribute**
 
 ## Images
+
+<img src="Images/Diagram_Principle_V2.png" width="200">
