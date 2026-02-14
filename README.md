@@ -1,6 +1,6 @@
 **Why did we do it?**
 
-We created spotiman because we were suffering from music that feels like doomscrolling. Spotiman is a Walkman that uses Spotify API for playing music.
+We created Spotiman because we were suffering from music that feels like doomscrolling. Spotiman is a Walkman that uses Spotify API for playing music.
 
 **How it works?**
 
