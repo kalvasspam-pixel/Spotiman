@@ -15,3 +15,4 @@ extern const unsigned char image_shuffle_2_svgrepo_com_bits[] PROGMEM;
 extern const unsigned char image_loop_svgrepo_com_bits[] PROGMEM;
 extern const unsigned char image_cards_hearts_bits[] PROGMEM;
 extern const unsigned char image_add_svgrepo_com_1_bits[] PROGMEM;
+extern const unsigned char image_Layer_19_bits[] PROGMEM;
