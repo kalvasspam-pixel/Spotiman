@@ -89,7 +89,7 @@ inline Menu mainMenu = {
         // wifi_full
         tft.drawBitmap(146, 3, image_wifi_full_bits, 19, 16, 0xFFFF);
         // music_play
-        tft.drawBitmap(105, 222, image_music_play_bits, 30, 32, 0xFFFF);
+        tft.drawBitmap(109, 221, image_music_play_bits, 80, 30, 0xFFFF);
         // music_next
         tft.drawBitmap(57, 222, image_music_next_bits, 152, 28, 0xFFFF);
         // music_previous
