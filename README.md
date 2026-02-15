@@ -13,7 +13,7 @@ It uses TFT screen that displays all the UI. It connects to your spotify account
 We used a couple of tools such as
 - [Onshape](https://cad.onshape.com/documents/badc6da9251d2be217fd3a10/w/4c77092e45fc31b892930436/e/9490878c89b99a23a1bfab5c?renderMode=0&uiState=69919dd22cf206ae6cedbf38) for CAD
 - [Lopaka](https://lopaka.app/gallery/28150/58584) for UI design
-- Our own brains, AI + lot of tutorials for firmware
+- Our own brains, AI and a lot of tutorials for firmware
 - [Wokwi](https://wokwi.com/) for testing ideas.
 
 **Spotiman is still in development. Feel free to contribute**
