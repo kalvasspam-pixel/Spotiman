@@ -20,6 +20,12 @@ class Selector {
     }
 
     bool update(int itemCount) {
+
+      if (itemCount <= 0) {
+        selectedIndex = 0;
+        return false;
+      }
+
       int clkState = digitalRead(pinCLK);
       bool changed = false;
 
