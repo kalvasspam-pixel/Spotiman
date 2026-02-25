@@ -28,4 +28,4 @@ We used a couple of tools such as
 - Create a scheme of Spotiman's menus.
 - Design all Spotiman menus.
 - Add all menus to Spotiman.
-- Modify Spotiman's enclosure to fit the rotary encoder and eps32.
+- Modify Spotiman's enclosure to fit the rotary encoder and ESP32.
