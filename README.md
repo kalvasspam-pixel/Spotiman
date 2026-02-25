@@ -20,7 +20,7 @@ We used a couple of tools such as
 
 ## Images
 
-<img src="Images/Diagram_Principle_V2.png" width="200"> <img src="Images/Model_CAD_V1.png" width="400"> <img src="Images/PCB_Bottom.png" width="200"> 
+<img src="Images/Diagram_Principle_V2.png" width="200"> <img src="Images/Model_CAD_V1.png" width="400"> <img src="Images/PCB_Bottom_V1-1.png" width="200"> 
 
 ## TO DO:
 ~~- Edit the firmware so the esp doesn't crash when the encoder is rotated in wrong direction.~~
