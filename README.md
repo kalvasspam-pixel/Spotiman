@@ -28,3 +28,6 @@ We used a couple of tools such as
 - Design all Spotiman menus.
 - Add all menus to Spotiman.
 - Modify Spotiman's enclosure to fit the rotary encoder and ESP32.
+
+## GPS tracking
+we also insist on having GPS tracking in our device. This is for a simple reasson: We are developing Spotiman for us and our friends and a simple map of all the Spotimans around that would be decentralized sounded like a good idea. This small side-quest turned out to be a big rabbit hole of problems, but it's also what makes Spotiman more interesting. We are thinking that we will make this GPS fully optional. Both from the software AND hardware perspective.
