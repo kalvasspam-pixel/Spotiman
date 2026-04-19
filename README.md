@@ -21,13 +21,15 @@ We used a couple of tools such as
 ## Images
 <img src="Images/Model_CAD_V1.png" width="400"> <img src="Images/Diagram_Hardware_V3.png" width="400">  <img src="Images/PCB_Bottom_V1-1.png" width="200">
 
+## GPS tracking
+We also insist on having GPS tracking in our device. This is for a simple reason: We are developing Spotiman for us and our friends and a simple decentralized map of all the Spotimans around sounded like a good idea. This small side-quest turned out to be a big rabbit hole of problems, but it's also what makes Spotiman more interesting. We plan to make the GPS functionality completely optional. Both from the software AND hardware perspective
+
+## AI guidlines:
+We are partially using AI in Spotimans development. We are gonna mark all the areas of Spotiman that were effected by AI.
+
 ## TO DO:
-~~- Edit the firmware so the esp doesn't crash when the encoder is rotated in wrong direction.~~
-- Translate all notes in firmware to english.
+- Translate all notes in firmware to English.
 - Create a scheme of Spotiman's menus.
 - Design all Spotiman menus.
 - Add all menus to Spotiman.
 - Modify Spotiman's enclosure to fit the rotary encoder and ESP32.
-
-## GPS tracking
-We also insist on having GPS tracking in our device. This is for a simple reason: We are developing Spotiman for us and our friends and a simple decentralized map of all the Spotimans around sounded like a good idea. This small side-quest turned out to be a big rabbit hole of problems, but it's also what makes Spotiman more interesting. We plan to make the GPS functionality completely optional. Both from the software AND hardware perspective
