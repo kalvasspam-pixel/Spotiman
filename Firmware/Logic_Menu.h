@@ -8,7 +8,7 @@ struct Menu {
   void (**highlight)();
   void (**clear)();
   void (**action)();
-  void (*onEnter)();   // vykreslí celé menu při vstupu
+  void (*onEnter)();   // drawing base (static) UI
 };
 
 class MenuSystem {
