@@ -13,9 +13,9 @@
 </li>
 <li data-line="2" dir="auto"><span class="list-bullet"></span>
 <p>Find as many ways as possible to have an alternative for slide potenciometer with switch on start. (Haptics, limit switch etc.)</p>
-</li>
+
 <li data-line="9" dir="auto"><span class="list-bullet"></span>
-<p>How should I mount the PCB? <strong><em>Include 3D model and PCB design file</em></strong> </p>
+</li> <p>How should I mount the PCB? <strong><em>Include 3D model and PCB design file</em></strong> </p>
 </li>
 <li data-line="11" dir="auto"><span class="list-bullet"></span>
 <p>Is there any standard keyboard switch format? Which is more versatile?</p>
