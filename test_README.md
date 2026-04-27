@@ -22,7 +22,6 @@
 </li>
 <li data-line="13" dir="auto"><span class="list-bullet"></span>
 <p>How to manage analog and digital signals?</p>
-</li>
 <li data-line="15" dir="auto"><span class="list-bullet"></span>
 <p>How to integrate touch gestures?</p>
 </li>
