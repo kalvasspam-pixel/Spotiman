@@ -7,11 +7,11 @@
 <p> Dvě paralelně = ANO, ale se zásadním upozorněním. Paralelní zapojení dvou 18650 je technicky možné — napětí zůstane 3.0–4.2V, kapacita se zdvojnásobí na ~6000mAh. Ale musíš přidat ochranné rezistory (100–200mΩ) do každé větve před spojením, jinak při rozdílném stavu nabití buněk poteče velký vyrovnávací proud.</p>
 </blockquote>
 </li>
-<li data-line="3" dir="auto"><span class="list-bullet"></span>
+<li data-line="1" dir="auto"><span class="list-bullet"></span>
 <p>Explain to me where should I have copper on layers and where not (for antennas, modules etc.) <strong><em>Include PCB design file</em></strong><br>
 <span alt="Screenshot_20260427-131345.Google~2.png" src="Images/Screenshot_20260427-131345.Google~2.png" class="internal-embed media-embed image-embed is-loaded" target="_self"><img alt="Screenshot_20260427-131345.Google~2.png" src="Images/Screenshot_20260427-131345.Google~2.png" target="_self"></span></p>
 </li>
-<li data-line="7" dir="auto"><span class="list-bullet"></span>
+<li data-line="2" dir="auto"><span class="list-bullet"></span>
 <p>Find as many ways as possible to have an alternative for slide potenciometer with switch on start. (Haptics, limit switch etc.)</p>
 </li>
 <li data-line="9" dir="auto"><span class="list-bullet"></span>
